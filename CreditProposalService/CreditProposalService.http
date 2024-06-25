@@ -1,0 +1,6 @@
+@CreditProposalService_HostAddress = http://localhost:5037
+
+GET {{CreditProposalService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
